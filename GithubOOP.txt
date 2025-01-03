@@ -1,3 +1,5 @@
 Командв на один раз
 git config --global user.name "Your name"
 git config --global user.email "your-email@example.com"
+
+команды которые часто пишутся
